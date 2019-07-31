@@ -1,2 +1,1 @@
-this is java file
 echo "this is java sample file"
