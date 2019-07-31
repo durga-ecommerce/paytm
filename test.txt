@@ -1,3 +1,4 @@
+this is master merge conflict
 first update
 hi this is text file
 echo "this is sample text file"
