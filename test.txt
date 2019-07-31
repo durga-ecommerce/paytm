@@ -1,0 +1,2 @@
+hi this is text file
+echo "this is sample text file"
